@@ -2,7 +2,7 @@
 sh <(curl -L https://nixos.org/nix/install) --no-daemon
 
 #source nix
- . /home/vreedfab/.nix-profile/etc/profile.d/nix.sh
+ . ~/.nix-profile/etc/profile.d/nix.sh
 
 #install nix packages
 
